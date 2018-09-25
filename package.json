@@ -1,0 +1,12 @@
+{
+  "name": "lucky-toolbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Szabolcs Lukacs",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
